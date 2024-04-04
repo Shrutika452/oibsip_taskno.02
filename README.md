@@ -1,0 +1,1 @@
+I analyzed a dataset containing various chemical characteristics of wines, such as density and acidity, to predict wine quality using machine learning techniques.This is the relationship between chemical attributes and wine quality.
